@@ -9,6 +9,6 @@ Turma: 5º Semestre de Sistemas de Informação.
 **********************************************************************************************************************************
 A idéia é utilizar as tags HTML de forma que fiquem de fácil localização todo o conteúdo do site de notícias para leitores de tela. 
 
-Usar tag H1 para o título do site.
-         h2 para menus.
+Usar tag H1 para o título do site. <br>
+         h2 para menus. <br>
          h3 para títulos de notícias.
